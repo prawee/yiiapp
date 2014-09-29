@@ -1,0 +1,23 @@
+{
+    "name": "konkeanweb/yii",
+    "description": "Make application by Yii framework",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "konkeanweb@gmail.com",
+            "homepage": "http://www.konkeanweb.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "protected/vendor"
+    },     
+    "require": {
+        "php": ">=5.1.0"
+    },
+    "require-dev": {
+        "yiisoft/yii": "1.1.14",
+        "clevertech/yii-booster": "v2.0.0",
+        "malyshev/yii-debug-toolbar": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
