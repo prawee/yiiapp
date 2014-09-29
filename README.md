@@ -1,6 +1,6 @@
 YiiApp
 ======
-yii-initial
+yii-initial projects
 
 Using on Windows with XAMPP by Composer
 ================
