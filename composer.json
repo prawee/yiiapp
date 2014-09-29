@@ -15,7 +15,7 @@
         "php": ">=5.1.0"
     },
     "require-dev": {
-        "yiisoft/yii": "1.1.14",
+        "yiisoft/yii": "1.1.15",
         "clevertech/yii-booster": "v4.0.1",
         "malyshev/yii-debug-toolbar": "dev-master"
     },
