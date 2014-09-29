@@ -4,10 +4,11 @@ yii-initial
 
 Using on Windows
 ================
+```php
 1.open cmd
 2.cd /path/of/webserver   such as  c:\xampp\htdocs
 3. 
-
+```
 
 Update
 ======
