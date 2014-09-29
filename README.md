@@ -2,6 +2,12 @@ YiiApp
 ======
 yii-initial projects
 
+Requirements
+============
+1.Installed XAMPP
+2.Installed Git.
+3.Installed Composer.
+
 Using on Windows with XAMPP by Composer
 ================
 ```php
